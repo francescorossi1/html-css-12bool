@@ -21,10 +21,14 @@
 
 .card{
     padding: 15px;
+    min-height: 50px;
     text-align: center;
     border: 1px solid #fff;
+    line-height: 18px;
 }
 
-.card.bg-green{
-    border-color: #006CFA;
+.card-nested{
+    min-height: 50px;
+    line-height: 48px;
+    border: 1px solid #006CFA;
 }
