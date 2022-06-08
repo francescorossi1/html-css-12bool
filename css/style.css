@@ -19,6 +19,8 @@
     margin-bottom: 30px;
 }
 
+/* Content */
+
 .card{
     padding: 15px;
     min-height: 50px;
@@ -31,4 +33,8 @@
     min-height: 50px;
     line-height: 48px;
     border: 1px solid #006CFA;
+}
+
+.min-h-100{
+    min-height: 100px;
 }
