@@ -1,0 +1,30 @@
+/* Utils */
+
+.bg-blue{
+    background-color: #006CFA;
+}
+
+.bg-green{
+    background-color: #00E165;
+}
+.white{
+    color: #fff;
+}
+
+.black{
+    color: #000;
+}
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.card{
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #fff;
+}
+
+.card.bg-green{
+    border-color: #006CFA;
+}
